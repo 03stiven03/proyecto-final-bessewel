@@ -1,0 +1,9 @@
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\bin\Debug\capa_datos.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\bin\Debug\capa_datos.pdb
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\bin\Debug\capa_entidades.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\bin\Debug\capa_entidades.pdb
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\obj\Debug\capa_datos.csprojAssemblyReference.cache
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\obj\Debug\capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\obj\Debug\capa_datos.csproj.CopyComplete
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\obj\Debug\capa_datos.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_datos\obj\Debug\capa_datos.pdb

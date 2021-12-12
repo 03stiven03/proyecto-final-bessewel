@@ -1,0 +1,11 @@
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\bin\Debug\capa_negocios.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\bin\Debug\capa_negocios.pdb
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\bin\Debug\capa_datos.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\bin\Debug\capa_entidades.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\bin\Debug\capa_datos.pdb
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\bin\Debug\capa_entidades.pdb
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\obj\Debug\capa_negocios.csprojAssemblyReference.cache
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\obj\Debug\capa_negocios.csproj.CoreCompileInputs.cache
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\obj\Debug\capa_negocios.csproj.CopyComplete
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\obj\Debug\capa_negocios.dll
+C:\Users\Stiven\source\repos\proyecto final\capa_negocios\obj\Debug\capa_negocios.pdb

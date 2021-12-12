@@ -1,0 +1,19 @@
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csprojAssemblyReference.cache
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.Form1.resources
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.loguin.resources
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\capa_entidades.dll
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\capa_negocios.dll
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\capa_datos.dll
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\capa_entidades.pdb
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\capa_negocios.pdb
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\bin\Debug\capa_datos.pdb
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto final.csproj.CopyComplete
+C:\Users\Stiven\source\repos\proyecto final\proyecto final\obj\Debug\proyecto_final.MDI.resources
